@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	background-color: #181818;
+}
+
+p {
+	font-family: 'Source Sans 3', sans-serif;
+	color: #CC99FF;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 3em;
+	text-decoration: underline;
+	margin-bottom: -20px;
+	margin-top: -5px;
+}
+
+
+.bkgrnd {
+	text-align:left;
+	color: #CC99FF;
+	border-bottom: 5px #CC99FF solid;
+}
+
+section > section {
+padding: 20px;
+}
